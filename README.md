@@ -21,5 +21,4 @@ License
 ---------
 py-pong is available under the MIT license. See the LICENSE file for more info.
 
-Follow me on twitter [@capezzbr](http://www.twitter.com/capezzbr)
----------
+**Follow me on twitter [@capezzbr](http://www.twitter.com/capezzbr)**
