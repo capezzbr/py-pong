@@ -12,10 +12,10 @@ How To Get Started
 ==================
 
 This Python implementation need to run on [codeskulptor.org](http://www.codeskulptor.org). 
-1. Copy the source of **py-pong**
-2. Paste the source inside [codeskulptor.org](http://www.codeskulptor.org)
-3. Press the play button.
-4. Enjoy :)
+- Copy the source of **py-pong**
+- Paste the source inside [codeskulptor.org](http://www.codeskulptor.org)
+- Press the play button.
+- Enjoy :)
 
 License 
 ---------
